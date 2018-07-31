@@ -1,6 +1,9 @@
 import java.text.MessageFormat;
 
 import javax.sound.midi.*;
+/*
+ * This class asks the user on the console to enter in a instrument and note to play using MIDI.
+ */
 
 public class MiniMusicCmdLine {
 	
